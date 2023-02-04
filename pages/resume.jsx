@@ -38,7 +38,7 @@ const resume = () => {
         <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
           <div className='hidden sm:block'>
             <p>
-              Proven Leadership <span className='px-1'>|</span> Web Development{' '}
+             Software Development <span className='px-1'>|</span> Web Development{' '}
               <span className='px-1'>|</span> Complex Problem Solving
             </p>
           </div>
@@ -49,15 +49,7 @@ const resume = () => {
           </div>
         </div>
         <p>
-          Analytical, innovative, and motivated web development professional
-          with experience in customer service, team leadership, and
-          organizational effectiveness in fast-paced and challenging
-          environments. Adept at developing strategies and driving streamlined
-          operations. Diverse analytical skills, team collaboration, and
-          relationship building. Consummate professional, and motivated leader,
-          with solid interpersonal abilities and complex problem-solving skills.
-          Effective and proven track record of critical thinking, idea
-          generation, and optimizing efficiencies.
+        As a Master of Computer Applications student, I bring a strong foundation in computer programming and web development to the table. With a keen understanding of languages such as C, SQL, HTML, CSS and ReactJS, I am confident in my ability to contribute to any project that involves coding or web design. Throughout my academic journey, I have honed my skills in problem-solving and critical thinking, which I believe will be valuable assets in the field. I am eager to apply my knowledge and passion for technology to a challenging and dynamic work environmen
         </p>
 
         {/* Skills */}
@@ -183,7 +175,7 @@ const resume = () => {
               Validate Email
             </li>
             <li>
-              Developed To Learn Sting
+              Developed To Learn String
             </li>
             
           </ul>
