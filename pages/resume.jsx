@@ -172,7 +172,7 @@ const resume = () => {
               Using String Function (python)
             </li>
             <li>
-              Validate Email
+            verifying if an email address is valid and deliverable.
             </li>
             <li>
               Developed To Learn String
